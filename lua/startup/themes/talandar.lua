@@ -17,6 +17,7 @@ local settings = {
 		[[]],
 	[[Better, stronger, faster]],
 		[[🦐 Shrimp Configuratuion 🦐]],
+					[[]],
 	},
         highlight = "Number",
         default_color = "",
