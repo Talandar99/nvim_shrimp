@@ -9,4 +9,4 @@ Simple and lightweight configuration for editing configs, writing scripts, serve
 
 ## Instalation
 - clone this repo into your .config file
-- rename it ```mv nvim_shrimp nvim```
+- rename it ```mv nvim_shrimp_config nvim```
