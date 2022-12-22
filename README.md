@@ -1,4 +1,4 @@
-# 🦐Nvim - Shrimp configuration🦐
+# 🦐Neovim - Shrimp configuration🦐
 Simple and lightweight configuration for editing configs, writing scripts, server administration etc
 
 ## What's inside?
