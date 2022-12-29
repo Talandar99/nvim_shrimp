@@ -9,5 +9,5 @@ Simple and lightweight configuration for editing configs, writing scripts, serve
 - vimwiki (quicknotes)
 
 ## Instalation
-- clone this repo into your .config file
+- clone this repo into your .config directory
 - rename it ```mv nvim_shrimp_config nvim```
