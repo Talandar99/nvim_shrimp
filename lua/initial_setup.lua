@@ -28,7 +28,6 @@ set clipboard=unnamedplus
 set backspace=indent,eol,start
 set updatetime=50
 set termguicolors
-let g:vimwiki_list = [{'path': '~/.vimwiki/','syntax': 'markdown', 'ext': '.md'}]
 let g:lightline = {'colorscheme': 'tokyonight'}
 ]]
 )

@@ -6,7 +6,6 @@ Simple and lightweight configuration for editing configs, writing scripts, serve
 - harpoon & telescope (file navigation)
 - colorizer (you can see # colors)
 - tokionight theme and lualine (looks better)
-- vimwiki (quicknotes)
 
 ## Instalation
 - clone this repo into your .config directory

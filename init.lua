@@ -13,7 +13,6 @@ require('packer').startup(function(use)
 	use 'jiangmiao/auto-pairs'--Auto Pairs
 	use 'fedepujol/move.nvim'--lines movement
 	use 'chrisbra/Colorizer'--Colors highlight 
-	use 'vimwiki/vimwiki'--vim wiki
 	use 'nvim-lualine/lualine.nvim'--bottom bar 
 	use 'folke/tokyonight.nvim'--tokyonight theme
 	use 'kyazdani42/nvim-web-devicons'--icons in your statusline
