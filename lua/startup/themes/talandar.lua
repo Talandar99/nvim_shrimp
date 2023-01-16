@@ -30,7 +30,6 @@ local settings = {
         title = "Basic Commands",
         margin = 0,
         content = {
-{ "Vimwiki", "VimwikiIndex", "<leader>x" },
 { "Telescope", "Telescope find_files", "<leader>c" },
 { "File View", "E", "<leader>s" },
 { "New File", "lua require'startup'.new_file()", "<leader>d" },
