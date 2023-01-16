@@ -8,5 +8,15 @@ Simple and lightweight configuration for editing configs, writing scripts, serve
 - tokionight theme and lualine (looks better)
 
 ## Instalation
+- cd into .config
+```
+cd ~/.config
+```
 - clone this repo into your .config directory
-- rename it ```mv nvim_shrimp_config nvim```
+```
+git clone https://github.com/Talandar99/nvim_shrimp_config
+```
+- rename it 
+```
+mv nvim_shrimp_config nvim
+```
