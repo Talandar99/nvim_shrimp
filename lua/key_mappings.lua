@@ -51,10 +51,4 @@ vnoremap <silent> <A-h> :MoveHBlock(-1)<CR>
 "automaticly center after C-d C-u
 nnoremap <C-d> <C-d>zz
 nnoremap <C-u> <C-u>zz
-
-"Dont use arrows
-map <Left> <Esc>:echo 'embrace vim'<CR>
-map <Right> <Esc>:echo 'you are weak'<CR>
-map <Up> <Esc>:echo 'never slow down'<CR>
-map <Down> <Esc>:echo 'you don't need this...'<CR>
 ]])
