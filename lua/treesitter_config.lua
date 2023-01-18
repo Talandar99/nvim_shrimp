@@ -4,8 +4,6 @@ require('nvim-treesitter.configs').setup({
     highlight = {
         enable = true,
         custom_captures = {
-            -- ["<capture group>"] = "<highlight group>",
-            -- ["keyword"] = "TSString",
         },
     },
 
